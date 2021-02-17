@@ -43,6 +43,23 @@ footer{
     flex-direction: row;
     
 }
+#brand-button
+{
+    background-color: red;
+    font-size: 1.5rem;
+    padding: 1.1%;
+    color: white;
+    height: 30%;
+    
+    margin-left: 35%;
+    margin-top: 2%;
+    letter-spacing: 8px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
 span{
     padding: 0px 5px;
 }
